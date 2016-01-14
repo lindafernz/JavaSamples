@@ -22,14 +22,15 @@ Thus, new views can be added very easily to modify the filter(tree) and the deta
 
 Run the application:
 ======================
-
+Type on command line:
+java -jar cpsjsonswingproj.jar
 
 About the data:
 =================
 Using a public dataset available at :
 https://catalog.data.gov/dataset/chicago-public-schools-elementary-school-progress-report-card-2012-2013-ee91e
 
-Chicago Public Schools – Elementary School Progress Report Card (2012-2013)
+Chicago Public Schools â€“ Elementary School Progress Report Card (2012-2013)
 Metadata Updated: Apr 09, 2015 
 
 This dataset shows the 2012 School Progress Report Card data elements for each CPS elementary school.
